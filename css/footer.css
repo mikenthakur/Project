@@ -1,4 +1,18 @@
+/* Footer styles */
 footer {
-    background-color: black;
-    color: aliceblue;
-}
+    margin-top: 110px;
+    
+    background-color: rgb(5, 55, 55);
+    color: #e73535;
+    text-align: center;
+    padding: 50;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 30px;
+  }
+
+  /* Links in the footer */
+  footer a {
+    color: #fff;
+    text-decoration:none;
+    
+  }

@@ -13,8 +13,8 @@
     <main class="center">
         <h1>Project</h1>
         <h2>Miken Thakur</h2>
-        <h2>abc2</h2>
-        <h2>abc3</h2>
+        <h2>Krishna</h2>
+        <h2>Smart</h2>
     </main>
     <?php include 'footer.php'; ?>
 </body>

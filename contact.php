@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="css/nav.css">
     <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="css/footer.css">
-    <title>Conatct</title>
+    <title>Contact</title>
     <style>
     .centered-text {
         text-align: center;
@@ -36,10 +36,6 @@
         padding-bottom: 5px;
         padding-left: 33px;
         padding-right: 0px;
-        
-        
-
-    
         
     }
 

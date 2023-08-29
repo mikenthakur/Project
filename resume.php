@@ -72,6 +72,66 @@
                 <td colspan="2">- Database: MySQL, MongoDB</td>
             </tr>
         </table>
+         
+        <table>
+            <tr>
+                <th colspan="2">Personal Information</th>
+            </tr>
+            <tr>
+                <td>Name:</td>
+                <td>Samrat Giri</td>
+            </tr>
+            <tr>
+                <td>Email:</td>
+                <td>nothing23@gmail.com</td>
+            </tr>
+            <tr>
+                <th colspan="2">Education</th>
+            </tr>
+            <tr>
+                <td colspan="2">Bachelor of Computer Science</td>
+            </tr>
+            <tr>
+                <td>University:</td>
+                <td>Pokhara University</td>
+            </tr>
+            <tr>
+                <td>Year:</td>
+                <td>2023</td>
+            </tr>
+            <tr>
+                <th colspan="2">Work Experience</th>
+            </tr>
+            <tr>
+                <td colspan="2">Software Engineer - XYZ Tech Solutions</td>
+            </tr>
+            <tr>
+                <td>Period:</td>
+                <td>2023 - Present</td>
+            </tr>
+            <tr>
+                <td colspan="2">Responsibilities:</td>
+            </tr>
+            <tr>
+                <td colspan="2">-Maintained web applications.</td>
+            </tr>
+            <tr>
+                <td colspan="2">- Collaborated with NCIT
+                </td>
+            </tr>
+            <tr>
+                <th colspan="2">Skills</th>
+            </tr>
+            <tr>
+                <td colspan="2">- Programming languages: Java, JavaScript, Python</td>
+            </tr>
+            <tr>
+                <td colspan="2">- Web technologies: HTML, CSS, React</td>
+            </tr>
+            <tr>
+                <td colspan="2">- Database: MySQL, MongoDB</td>
+            </tr>
+        </table>
     </main>
     <?php include 'footer.php'; ?>
 </body>

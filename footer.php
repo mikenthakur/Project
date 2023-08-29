@@ -1,3 +1,3 @@
 <footer>
-    <p>Miken Thakur Website (c) 2023</p>
+    <p>Website (c) 2023</p>
 </footer>

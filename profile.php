@@ -26,6 +26,11 @@
         height: 30px;
 
     }
+    .samratpic{
+        height: 30px;
+        width: fit-content;
+        width: 20px;
+    }
 
     .Profile {
         display: flex;
@@ -76,6 +81,7 @@
         justify-content: space-around;
 
     }
+    
     </style>
 
 
@@ -94,8 +100,8 @@
                 <div class="Profile">
                     <div class="hello">Hi I am </div>
                     <div class="name">Miken Thakur</div>
-                    <div class="about">Developer, Ethical Hacker</div>
-                    <div class="moreabout">I am a developer, and I love to drink coffee.</div>
+                    <div class="about">Student Of NCIT</div>
+                    <div class="moreabout">I want to be Software Developer , and I love to drink coffee.</div>
                     <div class="buttons">
                         <form action="inc/login.inc.php" method="post">
                             <button>Log in</button>
@@ -121,6 +127,7 @@
                     </a>
                 </div>
     </main>
+    
     <?php include 'footer.php'; ?>
 </body>
 

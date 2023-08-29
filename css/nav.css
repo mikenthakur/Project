@@ -37,12 +37,12 @@ nav ul .sub-menu {
   background-color: #555;
 }
 
-nav ul .sub-menu li {
-  width: 200px;
+nav ul li.profile-link:hover > .sub-menu {
+  display: block;
 }
 
-nav ul li:hover > .sub-menu {
-  display: block;
+nav ul .sub-menu li {
+  width: 200px;
 }
 
 nav ul .sub-menu li a {
@@ -52,4 +52,3 @@ nav ul .sub-menu li a {
 nav ul .sub-menu li a:hover {
   background-color: #777;
 }
-

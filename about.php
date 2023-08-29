@@ -57,7 +57,7 @@
   </div>
   
   <div class="person" onclick="toggleDetails('samrat')">
-    <img src="Samrat.JPG" alt="Samrat">
+    <img src="Samrat.png" alt="Samrat">
     <div>
       <h3>Samrat Giri</h3>
       <div class="details" id="samrat">
